@@ -1,0 +1,2 @@
+# SampleClassRepo
+This is the repository I am using for the GitHub education class
